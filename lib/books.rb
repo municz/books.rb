@@ -1,0 +1,6 @@
+require 'csv'
+require 'books/csv_parser'
+require 'books/inflector'
+require 'books/record'
+require 'books/models'
+require 'books/database'
